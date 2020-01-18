@@ -37,7 +37,9 @@ node getAccountBalance.js
 
 node hbarTransfer.js
 
+#More examples from the Official Hedera JS SDK
 
+https://github.com/hashgraph/hedera-sdk-js/tree/master/examples
 
 #Thanks
 
